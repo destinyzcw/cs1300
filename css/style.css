@@ -1,0 +1,64 @@
+html, body {
+  font-size: 100%;
+	background-size:cover;
+	font-family: 'Oswald', sans-serif;	
+	background-color: rgba(133,206,250,0.2);
+  background-size: 100%;
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif;	
+	text-align: center;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;  
+  text-align: center;
+  font-size: 25px;
+}
+
+.nav {
+  position: relative;
+  margin: 0 auto;
+  background: #6495ED;
+  opacity: 0.5;
+  color: #f0f0f0;
+}
+.nav a {
+  display: block;
+  padding: 0 100px;
+  line-height: inherit;
+  cursor: pointer;
+  text-decoration: none;
+}
+.nav__menu {
+  line-height: 45px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.nav__menu-item:hover {
+  background-color: rgba(255,255,255,1);
+}
+.nav__menu-item {
+  margin-left:19%;
+  display: inline-block;
+  position: relative;
+  font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', Charcoal, 'Helvetica Inserat', 'Bitstream Vera Sans Bold', 'Arial Black', 'sans serif';
+  font-size: 20px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  height:100%;
+}
+#img1 {
+	width:45%;
+	margin-left:27%;
+}
+#img2 {
+  width:30%;
+  margin-left:35%;
+}
+p {
+  font-family: 'Oswald', sans-serif;  
+  text-align: center;
+}
